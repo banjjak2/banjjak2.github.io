@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://banjjak2.github.io/sitemap.xml
